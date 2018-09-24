@@ -1,0 +1,10 @@
+C:\Users\redra\source\repos\PivotAnimator0.1.2.5.0\PivotAnimator0.1.2.5.0\bin\Debug\PivotAnimator0.1.2.5.0.exe.config
+C:\Users\redra\source\repos\PivotAnimator0.1.2.5.0\PivotAnimator0.1.2.5.0\bin\Debug\PivotAnimator0.1.2.5.0.exe
+C:\Users\redra\source\repos\PivotAnimator0.1.2.5.0\PivotAnimator0.1.2.5.0\bin\Debug\PivotAnimator0.1.2.5.0.pdb
+C:\Users\redra\source\repos\PivotAnimator0.1.2.5.0\PivotAnimator0.1.2.5.0\obj\Debug\PivotAnimator0.9.csprojAssemblyReference.cache
+C:\Users\redra\source\repos\PivotAnimator0.1.2.5.0\PivotAnimator0.1.2.5.0\obj\Debug\PivotAnimator0._1._2._5._0.PivotScreen.resources
+C:\Users\redra\source\repos\PivotAnimator0.1.2.5.0\PivotAnimator0.1.2.5.0\obj\Debug\PivotAnimator0._1._2._5._0.Properties.Resources.resources
+C:\Users\redra\source\repos\PivotAnimator0.1.2.5.0\PivotAnimator0.1.2.5.0\obj\Debug\PivotAnimator0.9.csproj.GenerateResource.cache
+C:\Users\redra\source\repos\PivotAnimator0.1.2.5.0\PivotAnimator0.1.2.5.0\obj\Debug\PivotAnimator0.9.csproj.CoreCompileInputs.cache
+C:\Users\redra\source\repos\PivotAnimator0.1.2.5.0\PivotAnimator0.1.2.5.0\obj\Debug\PivotAnimator0.1.2.5.0.exe
+C:\Users\redra\source\repos\PivotAnimator0.1.2.5.0\PivotAnimator0.1.2.5.0\obj\Debug\PivotAnimator0.1.2.5.0.pdb

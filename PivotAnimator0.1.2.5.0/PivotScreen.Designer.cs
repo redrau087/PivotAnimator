@@ -125,7 +125,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.optionsMenuStrip;
             this.Name = "PivotScreen";
-            this.Text = "Pivot Animator Demo 0.2.5.2";
+            this.Text = "Pivot Animator Demo 0.9";
             this.optionsMenuStrip.ResumeLayout(false);
             this.optionsMenuStrip.PerformLayout();
             this.ResumeLayout(false);

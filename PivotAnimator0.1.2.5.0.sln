@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PivotAnimator0.1.2.5.0", "PivotAnimator0.1.2.5.0\PivotAnimator0.1.2.5.0.csproj", "{8151C72F-F40E-4404-BB95-D2A59B9ECA5B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PivotAnimator0.9", "PivotAnimator0.1.2.5.0\PivotAnimator0.9.csproj", "{8151C72F-F40E-4404-BB95-D2A59B9ECA5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
